@@ -1,6 +1,6 @@
 {
   "name": "@forhot2000/express-async-handler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "Simple Middleware to manage exceptions within express routes in asynchronous",
   "main": "lib/index.js",
